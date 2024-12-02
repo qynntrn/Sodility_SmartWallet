@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleStruct.sol": "Name"
+			"contracts/SampleStruct.sol": "Paymant"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/SampleStruct.sol": {
-			"keccak256": "0xe5229839a6af61769342a0f9187a4202e4e37e1cf2c24cf0404dafe748dbae9a",
+			"keccak256": "0x2e93695fe4c733abefb57ee73b10f461465b2ad9c06b75cf650b85d42592cf7f",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://e228a40335883a0ef1f8b6ebb04b0393e2df41a379c2d8baea198ac2722f3930",
-				"dweb:/ipfs/QmWDR2kfJCqycJ5QgL6Khf5fjXHYoPsqH3ubXyBKpa1QUo"
+				"bzz-raw://7f02d2383a6c719383bf65f489fd5f3894a0720348ad5bda1e3e64b1f65327bf",
+				"dweb:/ipfs/QmeAVZ6tt6HqZAsVgvmVfsAA9WaJD7fqybY7kvedA28ErS"
 			]
 		}
 	},

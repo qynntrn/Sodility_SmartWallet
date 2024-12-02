@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleStruct.sol": "Name"
+			"contracts/SampleStruct.sol": "Pay"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/SampleStruct.sol": {
-			"keccak256": "0xe5229839a6af61769342a0f9187a4202e4e37e1cf2c24cf0404dafe748dbae9a",
+			"keccak256": "0x4c8a51d8155c83da091096a30edd4622f93fde56d841b3f49d543f255449b8f9",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://e228a40335883a0ef1f8b6ebb04b0393e2df41a379c2d8baea198ac2722f3930",
-				"dweb:/ipfs/QmWDR2kfJCqycJ5QgL6Khf5fjXHYoPsqH3ubXyBKpa1QUo"
+				"bzz-raw://abba97f59586e27a4214411c7a2828e29a3e5f02fd480ab3335749bd7d027bfc",
+				"dweb:/ipfs/QmPqeMN5DsEvPEbYUPQbhpUB6LBLez5r4jQx4n9hC8uKCN"
 			]
 		}
 	},
