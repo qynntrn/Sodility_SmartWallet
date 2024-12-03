@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.28+commit.7893614a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -61,7 +61,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleStruct.sol": "PaymentReceive"
+			"contracts/ExampleStruct.sol": "PaymentReceive"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -75,7 +75,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleStruct.sol": {
+		"contracts/ExampleStruct.sol": {
 			"keccak256": "0x4107a477e748ba42357939fccd4d49edc07c24e1bffafa81dba87745b9914006",
 			"license": "GPL-3.0",
 			"urls": [

@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleMapping2.sol": "SampleMapping2"
+			"contracts/ExampleMapping2.sol": "SampleMapping2"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -85,7 +85,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleMapping2.sol": {
+		"contracts/ExampleMapping2.sol": {
 			"keccak256": "0xb22bce1b68857ca655a7b0c1d0f44c6a1cd9c1363eabdce22fa85f100fc87ce6",
 			"license": "GPL-3.0",
 			"urls": [

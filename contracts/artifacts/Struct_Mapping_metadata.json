@@ -109,7 +109,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleStructMapping.sol": "Struct_Mapping"
+			"contracts/ExampleStructMapping.sol": "Struct_Mapping"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -123,7 +123,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleStructMapping.sol": {
+		"contracts/ExampleStructMapping.sol": {
 			"keccak256": "0x8f083c4093ac9559cf33b597910ec27704fcc4e1f7d6e7ad3c15194a8a782c8f",
 			"license": "GPL-3.0",
 			"urls": [

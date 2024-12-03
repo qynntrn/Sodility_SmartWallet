@@ -16,9 +16,9 @@
 				"name": "balances",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "uint8",
 						"name": "",
-						"type": "uint256"
+						"type": "uint8"
 					}
 				],
 				"stateMutability": "view",
@@ -39,9 +39,9 @@
 						"type": "address"
 					},
 					{
-						"internalType": "uint256",
+						"internalType": "uint8",
 						"name": "_amount",
-						"type": "uint256"
+						"type": "uint8"
 					}
 				],
 				"name": "withdraw",
@@ -63,7 +63,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleException.sol": "Exception"
+			"contracts/ExampleAssert.sol": "Exception"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -77,12 +77,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleException.sol": {
-			"keccak256": "0xd598627b45fb4a5643621b03b42e7acc8f07a82cbdbf7e7f73760caa8eb7c96d",
+		"contracts/ExampleAssert.sol": {
+			"keccak256": "0x0934fbd40e9bede74e35e3b7263ab6c72754cc5918c2df8e5bedd2e7febd41f8",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://2276576dc8b95591cc7de8c67d11d9a4a4ccfc4465a2c45795e91c10b6341c9b",
-				"dweb:/ipfs/QmPtg7FT98otxWSZvCaEA1V7cRXkE6UqdAYysserJ935wH"
+				"bzz-raw://9873cd0898a6b686985370047862e7fb217c01802678c2964e99cbe3cbc6a51b",
+				"dweb:/ipfs/QmcDHvzewWxtVDMPC6QSEjZJwbitCnu5M5bT2QygoHx7eq"
 			]
 		}
 	},

@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleTryCatch.sol": "Name"
+			"contracts/ExampleTryCatch.sol": "Withdraw"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/ExampleTryCatch.sol": {
-			"keccak256": "0x5d9bff5780ffd3350b9dad84cf76ab1002594b2f2863f3637071d9fbd94d1769",
+			"keccak256": "0x286dc73cc47ad89c567421dfff478a38a4e5d3351dec606fedc4f554e965abd3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://49eeff99a5d45a586bd7581bf94fd34560bc9700698e08cb96960b4c0cfef647",
-				"dweb:/ipfs/QmRYxuztX74VAEHefdaoq2nmvXiZbHKkf2mYScoEKMkSxY"
+				"bzz-raw://734a7aee11f7237795c5a7a954b09b8391d2d2bf04e260b4191405a02a7713ab",
+				"dweb:/ipfs/QmbaumjTq14LWHrKK3nADzykoQNzWGzdr2mhxLcHHjH1Ba"
 			]
 		}
 	},

@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleTryCatch.sol": "Name"
+			"contracts/ExampleTryCatch.sol": "Error"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/ExampleTryCatch.sol": {
-			"keccak256": "0x5d9bff5780ffd3350b9dad84cf76ab1002594b2f2863f3637071d9fbd94d1769",
+			"keccak256": "0xed27e0ca78ff4eb5b1b0097a0a71f3c1dbc500e3f192f6ce912884ea8f8acae9",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://49eeff99a5d45a586bd7581bf94fd34560bc9700698e08cb96960b4c0cfef647",
-				"dweb:/ipfs/QmRYxuztX74VAEHefdaoq2nmvXiZbHKkf2mYScoEKMkSxY"
+				"bzz-raw://4dee0eae7565f9d1c9ef815d351ba4848001e258cc59738a2144b2e5ec315c8d",
+				"dweb:/ipfs/QmPAbUXZJSrZQoZT71LZfFAKVuYir2FYqb83ygnjhbWy9j"
 			]
 		}
 	},

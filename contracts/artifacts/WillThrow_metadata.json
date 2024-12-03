@@ -4,7 +4,15 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "test",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +26,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleTryCatch.sol": "Name"
+			"contracts/ExampleTryCatch.sol": "WillThrow"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +41,11 @@
 	},
 	"sources": {
 		"contracts/ExampleTryCatch.sol": {
-			"keccak256": "0x5d9bff5780ffd3350b9dad84cf76ab1002594b2f2863f3637071d9fbd94d1769",
+			"keccak256": "0x7e101dd512b0c5b2c9c286370cb26f66caf37ec642343dde2347c0efd991f719",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://49eeff99a5d45a586bd7581bf94fd34560bc9700698e08cb96960b4c0cfef647",
-				"dweb:/ipfs/QmRYxuztX74VAEHefdaoq2nmvXiZbHKkf2mYScoEKMkSxY"
+				"bzz-raw://375bfceceae04659459706fba0cec6ac15f1895366c4c1a63f13d5e9ee60fcb3",
+				"dweb:/ipfs/QmSZgUBa5RHhrZ9sXdyGJ69CTfNkEHLYpNqjF1W7xK8bcS"
 			]
 		}
 	},
