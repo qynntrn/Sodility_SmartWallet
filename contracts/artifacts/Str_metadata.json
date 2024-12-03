@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleStructMapping.sol": "Name"
+			"contracts/SampleStructMapping.sol": "Str"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/SampleStructMapping.sol": {
-			"keccak256": "0x9259ef84c2ffd5f1fd735309fc459e0d23a52982a089b859a69b26c8ab95a280",
+			"keccak256": "0x9c25b8db9937da705efaf56eb4eb19856689d52c842eeedd35b4f337a11e1370",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://293f7037ddd2494d3c8d959da5723c3707f0320016e1d8514a778f23341324f8",
-				"dweb:/ipfs/QmTXH8taALYJBDTcA8CVpY3cwF2u3kPP8t97FxkYMafAsv"
+				"bzz-raw://9959218050c17f96508ad21cd63888285956bc4c2021e43fbd0c80ac6687897c",
+				"dweb:/ipfs/Qma4Fpon1hvuMs9Jz5diotidQYYGLDoPf5D1uLaju5xkTk"
 			]
 		}
 	},
