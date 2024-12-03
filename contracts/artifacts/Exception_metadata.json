@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.28+commit.7893614a"
+		"version": "0.6.12+commit.27d51765"
 	},
 	"language": "Solidity",
 	"output": {
@@ -13,7 +13,7 @@
 						"type": "address"
 					}
 				],
-				"name": "BalanceOfAddress",
+				"name": "balances",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -26,20 +26,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "getBalanceContract",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "sendMoney",
+				"name": "deposit",
 				"outputs": [],
 				"stateMutability": "payable",
 				"type": "function"
@@ -47,12 +34,17 @@
 			{
 				"inputs": [
 					{
-						"internalType": "address payable",
+						"internalType": "address",
 						"name": "_to",
 						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_amount",
+						"type": "uint256"
 					}
 				],
-				"name": "withdrawAll",
+				"name": "withdraw",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -71,9 +63,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleMapping2.sol": "SampleMapping2"
+			"contracts/SampleException.sol": "Exception"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "istanbul",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -85,12 +77,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/SampleMapping2.sol": {
-			"keccak256": "0xb22bce1b68857ca655a7b0c1d0f44c6a1cd9c1363eabdce22fa85f100fc87ce6",
+		"contracts/SampleException.sol": {
+			"keccak256": "0xd598627b45fb4a5643621b03b42e7acc8f07a82cbdbf7e7f73760caa8eb7c96d",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://3045a4caf68adf63caa0b9ea4efc77831dbbf912ae41cb1879bbd55ad15187a1",
-				"dweb:/ipfs/QmaBZ8zCpjrT8mJPc2C4p9KzkZN7V8V4hJajzgT4xA1GqL"
+				"bzz-raw://2276576dc8b95591cc7de8c67d11d9a4a4ccfc4465a2c45795e91c10b6341c9b",
+				"dweb:/ipfs/QmPtg7FT98otxWSZvCaEA1V7cRXkE6UqdAYysserJ935wH"
 			]
 		}
 	},

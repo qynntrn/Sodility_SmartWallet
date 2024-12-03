@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.28+commit.7893614a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -124,11 +124,11 @@
 	},
 	"sources": {
 		"contracts/SampleStructMapping.sol": {
-			"keccak256": "0xfabb0912ef141dd0fbd64471795e2b0b1129ad59f63296d57806fee4684cb6fd",
+			"keccak256": "0x8f083c4093ac9559cf33b597910ec27704fcc4e1f7d6e7ad3c15194a8a782c8f",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://6ac61cbfe0afbd4c852b59fff9deb78549632ef521a7809d2cfbb48b79081569",
-				"dweb:/ipfs/QmWovVjmzmCuyDTuSrRcfjFSYsMZmtqZUCm7dPtYENy4qN"
+				"bzz-raw://2e3d0c245091b3a7de777b708004d5a2560a50ba8508d8bae673e453acfbfd47",
+				"dweb:/ipfs/QmVDAERMeFXVtAWH59QEM2dB8bpfmwKs5g6vsHwKvRFvBa"
 			]
 		}
 	},

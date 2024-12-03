@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SampleException.sol": "Name"
+			"contracts/SampleException.sol": "E"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/SampleException.sol": {
-			"keccak256": "0x9259ef84c2ffd5f1fd735309fc459e0d23a52982a089b859a69b26c8ab95a280",
+			"keccak256": "0x793dcbf117b200cc697df1cc235b3b4fedb8f63ebff3de1c3f036cfee0393ddf",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://293f7037ddd2494d3c8d959da5723c3707f0320016e1d8514a778f23341324f8",
-				"dweb:/ipfs/QmTXH8taALYJBDTcA8CVpY3cwF2u3kPP8t97FxkYMafAsv"
+				"bzz-raw://1f1cadc157e1fe8e176660d4b65749e3e2eed6c8f980a97095cd71774ecba514",
+				"dweb:/ipfs/QmTu66nwgPqkmkGakA8QY1CXceRdKGWerHMAPi46ZF5Ha1"
 			]
 		}
 	},

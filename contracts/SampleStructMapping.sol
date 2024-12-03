@@ -40,6 +40,4 @@ contract Struct_Mapping  {
 
         _to.transfer(_amount);
     }
-    
-
 }
