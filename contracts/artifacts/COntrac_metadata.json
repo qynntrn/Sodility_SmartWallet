@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleContractCall.sol": "Name"
+			"contracts/ExampleContractCall.sol": "COntrac"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/ExampleContractCall.sol": {
-			"keccak256": "0x9259ef84c2ffd5f1fd735309fc459e0d23a52982a089b859a69b26c8ab95a280",
+			"keccak256": "0x47813454bdd17a86822b4a5ec2d985643fa081132b6fedc486028bd63c064c75",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://293f7037ddd2494d3c8d959da5723c3707f0320016e1d8514a778f23341324f8",
-				"dweb:/ipfs/QmTXH8taALYJBDTcA8CVpY3cwF2u3kPP8t97FxkYMafAsv"
+				"bzz-raw://d3093174d90604a98c72af126afd6f661d150bab4fc8ca149ddc92382de28a8f",
+				"dweb:/ipfs/QmX2vRpdGqEnb9W3GUVh2PGT3S8icRTLxqjMV8VhWsfFqE"
 			]
 		}
 	},

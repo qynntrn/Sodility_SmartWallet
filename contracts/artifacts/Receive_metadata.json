@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleContractCall.sol": "Name"
+			"contracts/ExampleLowLevel.sol": "Receive"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleContractCall.sol": {
-			"keccak256": "0x9259ef84c2ffd5f1fd735309fc459e0d23a52982a089b859a69b26c8ab95a280",
+		"contracts/ExampleLowLevel.sol": {
+			"keccak256": "0x4318b847e5574b626802994f344653a4c8192ec50eecb061261954d693d364c3",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://293f7037ddd2494d3c8d959da5723c3707f0320016e1d8514a778f23341324f8",
-				"dweb:/ipfs/QmTXH8taALYJBDTcA8CVpY3cwF2u3kPP8t97FxkYMafAsv"
+				"bzz-raw://e43482e2a6a4183215d82bd588a7777d9b59054ed12211454c658486eeaa3544",
+				"dweb:/ipfs/QmbmunaW2KDMeLbjxf8GcoMjPpiABLtUJQiu55P6UWF6Wi"
 			]
 		}
 	},
