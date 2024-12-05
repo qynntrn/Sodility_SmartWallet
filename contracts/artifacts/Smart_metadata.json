@@ -189,7 +189,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/SmartContractWallet.sol": "Name"
+			"contracts/SmartContractWallet.sol": "Smart"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -204,11 +204,11 @@
 	},
 	"sources": {
 		"contracts/SmartContractWallet.sol": {
-			"keccak256": "0x63a1863bdfa2202a0c5adef4a9bc5733c0c0fd360329733741f48518edbfe6f4",
+			"keccak256": "0xf90a5a070c2cdd63044b1c5dc5910cd55ad4acfe51579ea89af9ed40a8604435",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://4ee5226eb4c8c77c11819f8aae5976b83f9ccbacd2b17e668dfcff59cdb4d4a2",
-				"dweb:/ipfs/QmZZcDdKGgJqBWt2RhLnXTzMrD9kzPdEMQ7cEx4YoN7zxv"
+				"bzz-raw://6c67b6f5d7bf83a876b7a9c82951c88e8492ab8f7bdc6c10c1982d9ab5df0b07",
+				"dweb:/ipfs/QmVoY18xHAD6CYNA5Y1qegLiWjmRCSRVDSPHkp1WMW2UNV"
 			]
 		}
 	},
